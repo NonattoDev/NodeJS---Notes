@@ -1,0 +1,10 @@
+{
+	"Ejs include": {
+		"prefix": "<%-",
+		"description": "<%-",
+		"scope": "html",
+		"body": [
+			"<%- include(\"\")  %>"
+		]
+	}
+}
